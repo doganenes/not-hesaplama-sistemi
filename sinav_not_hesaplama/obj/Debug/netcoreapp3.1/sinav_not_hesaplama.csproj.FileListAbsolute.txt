@@ -1,0 +1,16 @@
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.exe
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.deps.json
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.runtimeconfig.json
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.runtimeconfig.dev.json
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.dll
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\bin\Debug\netcoreapp3.1\sinav_not_hesaplama.pdb
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.Form1.resources
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.Properties.Resources.resources
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.AssemblyInfo.cs
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.dll
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.pdb
+C:\Users\casper\Desktop\sinav_not_hesaplama\sinav_not_hesaplama\obj\Debug\netcoreapp3.1\sinav_not_hesaplama.genruntimeconfig.cache

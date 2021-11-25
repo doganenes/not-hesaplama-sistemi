@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sinav_not_hesaplama/1.0.0": {
+        "runtime": {
+          "sinav_not_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinav_not_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
